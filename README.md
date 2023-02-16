@@ -19,7 +19,7 @@
   <!--<br>
   📚 I’m currently learning how to build E-Commerce Website with Django-->
   <br>
-  💬 Ask me anything about from <a href="https://github.com/AlexandreBesia/AlexandreBesia/issues" title="Issues">Here</a>
+  💬 Ask me anything <a href="https://github.com/AlexandreBesia/AlexandreBesia/issues" title="Issues">Here</a>
 </p>
 
 <h2 align="center">Stats</h2>
