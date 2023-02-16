@@ -36,7 +36,7 @@
 <p align="center">
   <code><img title="C" height="50" src="svg/c.svg"></code>
   <code><img title="C++" height="50" src="svg/c++.svg"></code>
-  <code><img title="C#" height="50" src="svg/c#.svg"></code>
+  <code><img title="C#" height="50" src="svg/cs.svg"></code>
   <code><img title="Java" height="50" src="svg/java.svg"></code>
   <code><img title="Python" height="50" src="svg/python.svg"></code>
   <code><img title="HTML" height="50" src="svg/html.svg"></code>
