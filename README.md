@@ -1,8 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AlexandreBesia.AlexandreBesia">
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/alexandre-besia-1238a8188/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/alexandre-besia-1238a8188/" title="LinkedIn Profile"><img width="22" src="svg/linkedin.svg"> LinkedIn</a></code>
 </h5>
 
 <h2 align="center">About me</h2>
