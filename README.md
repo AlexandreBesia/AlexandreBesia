@@ -67,7 +67,7 @@
 <h2 align="center">Trophy</h2>
 <br>
 <p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandrebesia&theme=tokyonight" alt="alexandrebesia" /></a> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandrebesia&theme=tokyonight&column=-1" alt="alexandrebesia" /></a> 
 </p>
 
 <h2 align="center">Contribution & streak</h2>
