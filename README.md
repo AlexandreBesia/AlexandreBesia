@@ -64,7 +64,19 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
 </p>
 
-<!-- <p align="center">
+<br>
+<!-- trophé -->
+<p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandrebesia&theme=tokyonight" alt="alexandrebesia" /></a> 
+</p>
+
+<!-- contribution et streak -->
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrebesia&theme=tokyonight" alt="alexandrebesia" />
+</p>
+
+<!-- 
+<p align="center">
   <code><img title="C" height="50" src="svg/c.svg"></code>
   <code><img title="C++" height="50" src="svg/c++.svg"></code>
   <code><img title="C#" height="50" src="svg/cs.svg"></code>
@@ -82,11 +94,8 @@
   <code><img title="Eclipse" height="50" src="svg/eclipse.svg"></code>
   <code><img title="VSCode" height="50" src="svg/vscode.svg"></code>
   <code><img title="git" height="50" src="svg/git.svg"></code>
-</p> -->
-
-<br>
-<!-- trophé -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandrebesia&theme=tokyonight" alt="alexandrebesia" /></a> </p>
+</p> 
+-->
 
 <!--
 **AlexandreBesia/AlexandreBesia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
