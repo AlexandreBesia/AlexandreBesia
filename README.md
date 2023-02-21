@@ -75,6 +75,11 @@
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrebesia&theme=tokyonight" alt="alexandrebesia" />
 </p>
+<!--
+<p align="center">
+    <img align="center" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="150">
+</p>
+-->
 
 <!-- 
 <p align="center">
